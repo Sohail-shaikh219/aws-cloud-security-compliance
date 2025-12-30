@@ -1,0 +1,12 @@
+# Python virtual environment
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Generated reports
+output/
+
+# AWS local config (extra safety)
+.aws/
